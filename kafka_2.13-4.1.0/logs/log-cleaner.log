@@ -1,0 +1,2 @@
+[2025-11-21 15:05:05,958] INFO Starting the log cleaner (org.apache.kafka.storage.internals.log.LogCleaner)
+[2025-11-21 15:05:05,966] INFO [kafka-log-cleaner-thread-0]: Starting (org.apache.kafka.storage.internals.log.LogCleaner$CleanerThread)
