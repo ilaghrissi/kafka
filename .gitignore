@@ -1,0 +1,4 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+kafka_2.13-4.1.0/logs/
